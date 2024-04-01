@@ -7,3 +7,5 @@
 # 작업 프로세스 :
 
 # 미리보기 
+# 04-01 html table 태그 colspan
+rowspan,tfoot, theader,col,colgroup,scope, 멀티미디어 태그 시맨틱 태그
